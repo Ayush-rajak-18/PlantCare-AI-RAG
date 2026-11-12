@@ -89,7 +89,7 @@ function ProjectInfo({ onBack }) {
           {/* PROFESSIONAL DP / AVATAR */}
           <div className="w-16 h-16 rounded-full bg-gradient-to-br from-emerald-700 to-teal-500 text-white grid place-items-center shadow-md ring-4 ring-emerald-50 shrink-0">
             <span className="text-xl font-black">
-              KB
+              AR
             </span>
           </div>
 

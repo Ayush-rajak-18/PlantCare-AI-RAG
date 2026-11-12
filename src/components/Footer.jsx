@@ -141,7 +141,7 @@ function Footer({ onAbout }) {
 
                   {/* PROFILE */}
                   <div className="w-11 h-11 rounded-full bg-gradient-to-br from-emerald-500 to-teal-400 grid place-items-center text-white font-black text-sm ring-4 ring-white/5 shrink-0">
-                    KB
+                    AR
                   </div>
 
                   <div className="min-w-0">
